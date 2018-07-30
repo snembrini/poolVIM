@@ -1,4 +1,4 @@
-#'  meff. written by Ozan Cinar and Wolfgang Viechtbauer.
+#'  meff
 #' @param R R
 #'
 m_effective <- function(R) {
